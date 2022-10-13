@@ -3,7 +3,7 @@ This document serves to summarize the project scope and output from my work with
 
 
 ## Project Scope
-KPS is an internally funded initiative aimed to bolster Kearney’s procurement offering through the implementation of digital procurement solutions as well as the addition of partnerships with solutions providers to enhance our capabilities for clients.  My role was an intersection between product manager, market researcher, and business analyst, and my objective was the following:
+KPS is an internally funded initiative aimed to bolster Kearney’s procurement offering through the implementation of digital procurement solutions as well as the addition of partnerships with solutions providers to enhance our capabilities for clients.  My role was an intersection between **product manager, market researcher, and business analyst, and my objective was the following:**
 
 - **Assist in the development of applications that would aid full-time consultants in the delivery of their projects (user journey creation and business requirement documentation)**
 - **Collect and Clean relevant data to stand up Proof of Concepts within the first few months of development**
