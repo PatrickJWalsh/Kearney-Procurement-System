@@ -13,8 +13,8 @@ KPS is an internally funded initiative aimed to bolster Kearney’s procurement 
 ## Collaboration & Personnel Involved
 I collaborated with multiple personnel across the scope of my work including:
 
-- Kearney Senior Leadership (Partners & Principals) – Met weekly to gain alignment on vision for applications and to provide status updates
-- Product Managers – Collaborated on daily scrums to translate ideas into meaningful business requirements for software developers
-- Software Developers – Hosted biweekly workshops to review and refine requirements for applications
-- Full-Time Consultants – Engaged to obtain relevant data and to socialize the applications in development to collect feedback on desirable features / functionality (they would serve as end-users)
-- Commodities Solution Executives and Sales Teams – Led interviews to gather information on existing solutions within the commodities risk management space
+- **Kearney Senior Leadership (Partners & Principals)** – Met weekly to gain alignment on vision for applications and to provide status updates
+- **Product Managers** – Collaborated on daily scrums to translate ideas into meaningful business requirements for software developers
+- **Software Developers** – Hosted biweekly workshops to review and refine requirements for applications
+- **Full-Time Consultants** – Engaged to obtain relevant data and to socialize the applications in development to collect feedback on desirable features / functionality (they would serve as end-users)
+- **Commodities Solution Executives and Sales Teams** – Led interviews to gather information on existing solutions within the commodities risk management space
