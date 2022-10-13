@@ -29,6 +29,6 @@ A few highlights included:
   - Cleaned old client spend cubes and created alteryx workflows to transform data (selected appropriate fields, performed exchange rate conversion, joined data sets, and created calculated fields for relevant metrics) to demonstrate necessary data transformation for the final applications
   - Created Process flows in visio to illustrate End-to-end ETL process
 - **Created Mock-ups to illustrate the desired interface and functionality we were aiming to provide end-users**
-  - Created Power BI Dashboard for Benchmarking Application and Supplier Prism to demonstrate sample output from transformed data
+  - Created Power BI Dashboards for Benchmarking Application and Supplier Prism to demonstrate sample output from transformed data
 
 
