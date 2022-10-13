@@ -31,4 +31,30 @@ A few highlights included:
 - **Created Mock-ups to illustrate the desired interface and functionality we were aiming to provide end-users**
   - Created Power BI Dashboards for Benchmarking Application and Supplier Prism to demonstrate sample output from transformed data
 
+### Data Dictionary and Documentation
+![image](https://user-images.githubusercontent.com/71853253/195631052-ab2d95e8-10f6-4bdc-973c-762dc69fe198.png)
+
+
+### Data Table Relationships
+![image](https://user-images.githubusercontent.com/71853253/195631098-56aca34b-c1bd-4076-9189-8b6ed4b83097.png)
+
+
+### Alteryx Workflow Documentation - Data Transformations (Joining and Applying Exchange Rates)
+![image](https://user-images.githubusercontent.com/71853253/195631265-04ff1213-35ad-46b1-940a-74edc6912bcd.png)
+
+
+### Power BI Mock-up - Benchmarking Application
+![image](https://user-images.githubusercontent.com/71853253/195635061-9c34502b-b741-4088-97d4-8d79b0a3ebe0.png)
+
+
+### Market Research Summary - Commodities Risk Management Solutions
+![image](https://user-images.githubusercontent.com/71853253/195631830-aa613091-69af-49ab-a55e-76f5c61cc4aa.png)
+
+![image](https://user-images.githubusercontent.com/71853253/195631930-7d6fed28-fa0c-4010-88ee-68e65a0a1134.png)
+
+
+
+
+
+
 
