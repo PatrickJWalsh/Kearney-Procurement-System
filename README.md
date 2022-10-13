@@ -8,3 +8,5 @@ KPS is an internally funded initiative aimed to bolster Kearney’s procurement 
 - **Assist in the development of applications that would aid full-time consultants in the delivery of their projects (user journey creation and business requirement documentation)**
 - **Collect and Clean relevant data to stand up Proof of Concepts within the first few months of development**
 - **Conduct Market Research in the commodities risk management space to understand existing solutions and to determine a plan to build Kearney’s offering**
+
+## Project Scope
