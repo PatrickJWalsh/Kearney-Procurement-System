@@ -11,10 +11,24 @@ KPS is an internally funded initiative aimed to bolster Kearney’s procurement 
 
 
 ## Collaboration & Personnel Involved
-I collaborated with multiple personnel across the scope of my work including:
+I collaborated with multiple groups across the scope of my work including:
 
 - **Kearney Senior Leadership (Partners & Principals)** – Met weekly to gain alignment on vision for applications and to provide status updates
 - **Product Managers** – Collaborated on daily scrums to translate ideas into meaningful business requirements for software developers
 - **Software Developers** – Hosted biweekly workshops to review and refine requirements for applications
 - **Full-Time Consultants** – Engaged to obtain relevant data and to socialize the applications in development to collect feedback on desirable features / functionality (they would serve as end-users)
 - **Commodities Solution Executives and Sales Teams** – Led interviews to gather information on existing solutions within the commodities risk management space
+
+
+## Project Highlights
+A few highlights included:
+
+- **Defined the business requirements for two solutions, notably the Benchmarking Application and Supplier Prism**  
+  - This meant collaborating across teams to translate ideas from business owners (Firm partners) to meaningful requirements for the software developers, as well as creating dashboard mock-ups to illustrate the desired interface and functionality we were aiming to provide end-users.
+- **Documented necessary Data transformations and created process flows to communicate end-to-end ETL process**
+  - Cleaned old client spend cubes and created alteryx workflows to transform data (selected appropriate fields, performed exchange rate conversion, joined data sets, and created calculated fields for relevant metrics) to demonstrate necessary data transformation for the final applications
+  - Created Process flows in visio to illustrate End-to-end ETL process
+- **Created Mock-ups to illustrate the desired interface and functionality we were aiming to provide end-users**
+  - Created Power BI Dashboard for Benchmarking Application and Supplier Prism to demonstrate sample output from transformed data
+
+
