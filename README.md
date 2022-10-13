@@ -32,11 +32,11 @@ A few highlights included:
   - Created Power BI Dashboards for Benchmarking Application and Supplier Prism to demonstrate sample output from transformed data
 
 ### Data Dictionary and Documentation
-![image](https://user-images.githubusercontent.com/71853253/195631052-ab2d95e8-10f6-4bdc-973c-762dc69fe198.png)
+![Data Documentation Snip](https://user-images.githubusercontent.com/71853253/195645075-7b8d2fe1-93b1-40ed-a156-0b8443c577cd.PNG)
 
 
 ### Data Table Relationships
-![image](https://user-images.githubusercontent.com/71853253/195631098-56aca34b-c1bd-4076-9189-8b6ed4b83097.png)
+![Database Table Relationships](https://user-images.githubusercontent.com/71853253/195645374-c12edc7f-c13a-4ac5-99f8-445a935d029e.PNG)
 
 
 ### Alteryx Workflow Documentation - Data Transformations (Joining and Applying Exchange Rates)
